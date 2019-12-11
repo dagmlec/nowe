@@ -1,3 +1,7 @@
 xyz
+<<<<<<< HEAD
 
 Julimat zmienia pierwszy plik
+=======
+zmiana
+>>>>>>> develop
